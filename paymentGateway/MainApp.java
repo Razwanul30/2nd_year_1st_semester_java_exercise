@@ -54,5 +54,5 @@ public class MainApp {
 
         // Static method call (Correct way)
         System.out.println("Exchange Rate: " + PaymentProcessor.getExchangeRate());
-    }
+    } 
 }
